@@ -1,2 +1,2 @@
 Hello from Fimi
-exit()
+add something
